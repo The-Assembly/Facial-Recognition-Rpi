@@ -4,7 +4,7 @@
 
 Facial Recognition is one of the most common uses of Pattern Recognition and is AI at its most common form. A facial recognition system is most used for security purposes, with the most advanced version being launched by Smartphone manufacturers in recent months. <br/>
 
-### Examples of Facial recognition application in use
+### Examples of Facial recognition application in use:
 #### Facial motion capture <br/>
 
 Facial motion capture is the process of electronically converting the movements of a person's face into a digital database using cameras or laser scanners. This database may then be used to produce CG (computer graphics) computer animation for movies, games, or real-time avatars. Because the motion of CG characters is derived from the movements of real people, it results in more realistic and nuanced computer character animation than if the animation were created manually. <br/>
