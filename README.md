@@ -8,7 +8,6 @@ Facial Recognition is one of the most common uses of Pattern Recognition and is 
 - Facial motion capture
 Facial motion capture is the process of electronically converting the movements of a person's face into a digital database using cameras or laser scanners. This database may then be used to produce CG (computer graphics) computer animation for movies, games, or real-time avatars. Because the motion of CG characters is derived from the movements of real people, it results in more realistic and nuanced computer character animation than if the animation were created manually.
 
-![Motion capture](https://user-images.githubusercontent.com/32713072/36053417-180aaada-0e0b-11e8-8488-7dfbe4e2ff3b.png)
-
+<div style="text-align:center"><img src =![Motion capture](https://user-images.githubusercontent.com/32713072/36053417-180aaada-0e0b-11e8-8488-7dfbe4e2ff3b.png) /></div>
 
 
