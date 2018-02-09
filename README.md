@@ -314,7 +314,7 @@ With the training.xml file generated, you're ready to move on to configure the s
 
 With the training.xml file generated, you're ready to move on to configure the servo latch and software for the project. <br/>
 
-### Implementing an lock opening mechanism 
+### Implementing a lock opening mechanism 
 
 To run the box software, make sure the hardware is assembled and the training is complete. First you'll run the box with only power to the Raspberry Pi and not the lock servo--this will allow you to test the face recognition without locking yourself out of the box. Apply power to just the Raspberry Pi (and not the servo), then connect to the Pi in a terminal session, navigate to the folder with the software, and execute the following command:
 ```
